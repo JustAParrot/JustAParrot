@@ -23,9 +23,9 @@
 ---
 
 ### 📈 Achievements & Contributions:
-🏆 Total Repos: **50+**  
-✨ Open Source Contributions: **100+**  
-⭐ Starred Projects: **500+**
+🏆 Total Repos: **No Idea**  
+✨ Open Source Contributions: **No Idea**  
+⭐ Starred Projects: **No Idea**
 
 ---
 
