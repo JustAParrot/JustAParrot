@@ -1,8 +1,6 @@
 # Hello there, I'm JustAParrot!  
 ### I don't know why you are here, but welcome to my GitHub Profile   
 
-![Banner]([https://via.placeholder.com/1000x200.png?text=Your+Custom+Banner+Here](https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
-
 ---
 
 ### 🛠️ Tech & Tools I Use:
