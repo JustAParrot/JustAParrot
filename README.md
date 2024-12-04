@@ -1,5 +1,5 @@
 # Hello there, I'm JustAParrot!  
-### I don't know why you are here, but welcome to my GitHub Profile   
+### I don't know why you are here but welcome to my GitHub Profile   
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### 📬 Let's Connect:
-- 💼 LinkedIn: [George Quito]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/george-q-090a59a4/))  
+- 💼 LinkedIn: [George Quito](https://www.linkedin.com/in/george-q-090a59a4/)  
 
 ---
 
