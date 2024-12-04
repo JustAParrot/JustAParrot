@@ -17,7 +17,7 @@
 ---
 
 ### 🎯 What I'm Working On:
-- 🌐 [MyWebsite](https://www.youtube.com/watch?v=dQw4w9WgXcQ): College Stuff
+- 🌐 [Click here for something AWESOME!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ): College Stuff
 - 🧠 Learning [Japanese]  
 
 ---
